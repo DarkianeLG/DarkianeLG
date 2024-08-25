@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Olá, meu nome é Darkiane! 😁💻</h1>
+<h1>Olá, meu nome é Darkiane! 😁💻</h1>
 
  <div>
    <a href="https://github.com/DarkianeLG">
@@ -7,7 +7,7 @@
 </div>
 
 
-<h2 style="text-align:center;">Soft skills! 😁💻</h2>
+<h2>Soft skills!</h2>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-### Entre em contato comigo
+<h2>Entre em contato comigo</h2>
  
 <div> 
   <a href="https://www.instagram.com/darkiane_lima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
