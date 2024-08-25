@@ -6,7 +6,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkianeLG&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-
 <h2>Soft skills!</h2>
     
 <div style="display: inline_block"><br>
